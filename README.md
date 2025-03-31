@@ -4,6 +4,10 @@ Nossa equipe criou um projeto com a intenção de automatizar as vendas "em cade
 
 
 # Delimitação parcial problema a ser resolvido e a ser respondido:
++ * Função para cadastro de usuário, com a possibilidade de inserir CPF e número de telefone: O nosso cliente pediu para que o cadastro fosse feito dessa forma para gerar mais segurança nas vendas que ele realizar. 
++ * Função de pagamento à distância via PIX, com criptografia nas transações e retirada na loja: Para facilitar o pagamento e por consequência obter mais compras nosso steakholder pediu várias maneiras de ralizar o pagamento, adotando a LGPD como base de todas as transações.  
++ * Função de cadastro de novas mercadorias: Para evitar frustações no processo de compra, o steakholder também pediu um cadastro de novas mercadorias e juntamente, à admnistração do estoque, caso o produto esteja em falta, no app a informaçãp mostra-se como "Produto fora do estoque"
++ * Interface intuitiva e simples de utilizar focada num público menos familiarizado com softwares: Como nosso cliente e usuários não entendem muito de tecnologia, foi acordado no ínicio que se criasse um projeto simples e de fácil entendimento. Outro ponto que o steakholder mencionou foi que a nossa equipe deveria conversar com ele de maneira que o entendimento seja claro sem geração de ambiguidade.
 
 # Concepção parcial dos objetivos:
 
