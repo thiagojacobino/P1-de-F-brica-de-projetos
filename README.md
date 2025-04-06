@@ -39,4 +39,4 @@ A área de cadastro de usuários seguiu com a cor de azul, porém um pouco mais 
 | *Junho* | Relatório Final, Pitch-Apresentaçã
 
 # Conclusão: percepções e desafios individuais
-
+Ao longo deste projeto, conseguimos ver como a tecnologia pode transformar a realidade de um negócio. Começamos com um problema simples, mas significativo: as vendas registradas manualmente em caderneta estavam gerando perdas financeiras e confusão. O objetivo do nosso cliente era ter algo mais organizado, seguro e fácil de usar, especialmente considerando que tanto ele quanto seus clientes não eram familiarizados com sistemas complexos.O maior desafio para nós foi encontrar um equilíbrio entre simplicidade e funcionalidade. O cliente precisava de um sistema eficiente, mas que fosse acessível para pessoas sem muita experiência em tecnologia. Isso nos fez repensar cada funcionalidade, testar e ajustar a interface para torná-la o mais intuitiva possível. A experiência de desenvolver algo que realmente faria a diferença para o nosso cliente foi extremamente gratificante. Sentimos que cada decisão tomada, desde a escolha das cores até as funcionalidades.
